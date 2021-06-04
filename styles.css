@@ -36,3 +36,19 @@ input {
 img {
 	max-width: 300px;
 }
+.color {
+	background-color: blue;
+	height: 30px;
+	width: 60vw;
+}
+.place {
+	background-color: aqua;
+	height: 30px;
+	width: 60vw;
+}
+.ritual {
+	background-color: white;
+	height: 30px;
+	width: 60vw;
+}
+

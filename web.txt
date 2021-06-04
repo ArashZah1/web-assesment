@@ -1,0 +1,17 @@
+    The amount I've learned this week, is probably the most I've learned in a one week span, in a very long time.
+Maybe even more than highschool. I have learned how when you look for a website, you download a copy from 
+the websites server and that server has to interact with other things sometimes aswell to get it. The links we click on,
+have so many parts such as the http. Hypertext transfer protocol and http secured is the main two ways on how the browser 
+and server communicate, with the secured version being encrypted and better. The host name is the 'nickname' which the DNS
+translates in the IP address. The part after .com,.gov, etc guides you to a specific part of the website server. If there is an error
+code we can go to http.cat to see what that error code means, and there are ALOT! Companies like google, sometimes design the  
+webpage for those errors, to look more professional I believe. With 200 being a success and 404 meaning not found and being
+the most common.
+    With CSS,HTML,and Javascript, I learned the most about how they are programmed togethor. I came in with a little understa-
+nding on Javascript functions,arrays, and other basics from codecademy but I learned so much more this week about them this week. 
+On css I learned about all the different styling options and how you can affect so many different aspects of your website. Learning
+how to attach your HTML tags to your css seemed to be easier than I thought it be and I enjoyed it. I learned about the tags in HTML
+and how there are so many. Assigning IDs and classes to tags to identify them on your css and Javascript. With Javascript, learning the
+methods to identify tags on HTML and add functionality to buttons, pictures, etc using functions was brand new to me and took some getting
+used to. Overall I still have a lot to learn and practice but this weeks lesson and assignments were alot of learning.
+  
