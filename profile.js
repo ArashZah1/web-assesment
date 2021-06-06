@@ -17,3 +17,4 @@ function favoriteRitual(evt){
 }
 let myFavoriteRitual = document.querySelector('#ritual')
 myFavoriteRitual.addEventListener('click',favoriteRitual)
+
